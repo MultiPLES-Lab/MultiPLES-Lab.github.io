@@ -1,0 +1,97 @@
++++
+title = "Publications"
+date = "2017-01-01T00:00:00Z"
+math = false
+highlight = false
+
+# List format.
+#   0 = Simple
+#   1 = Classic
+#   2 = Detailed
+list_format = 2
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
++++
+
+### Doctoral Dissertation
+- The Material Point Method For The Physics-Based Simulation Of Solids And Fluids, Chenfanfu Jiang, University of California, Los Angeles (2015)
+- Robust and Accurate Simulation of Elastodynamics and Contact, Minchen Li, University of Pennsylvania (2020)
+- Material Point Methods for Simulating Material Fracture, Joshuah Wolper, University of Pennsylvania (2021)
+
+### Tutorials
+- On Hybrid Lagrangian-Eulerian Simulation Methods: Practical Notes And High-Performance Aspects, Hu, Y., Zhang, X., Gao, M., Jiang, C. (SIGGRAPH Courses 2019)
+- The Material Point Method For Simulating Continuum Material, Jiang, C., Schroeder, C., Teran, J., Stomakhin, A., Selle, A. (SIGGRAPH Courses 2016)
+
+### Preprint
+- BFEMP: Interpenetration-Free MPM-FEM Coupling with Barrier Contact, Li, X., Fang, Y., Li, M., Jiang, C. (arXiv 2021)
+- A Barrier Method for Frictional Contact on Embedded Interfaces, Choo, J., Zhao, Y., Jiang, Y., Li, M., Jiang, C., Soga, K. (arXiv 2021)
+- Second-Order Neural Network Training Using Complex-Step Directional Derivative, Shen, S., Shao, T., Zhou, K., Jiang, C., Luo, F., Yang, Y. (arXiv 2020)
+
+### Published
+(\* denotes equal contributions)
+- Ships, Splashes, and Waves on a Vast Ocean, Huang, L., Qu, Z., Tan, X., Zhang, X., Michels, D., Jiang, C. (SIGGRAPH Asia 2021)
+- Three-dimensional and real-scale modeling of flow regimes in dense snow avalanches, Li, X., Sovilla, B., Jiang, C., Gaume, J. (Landslides 2021)
+- A Glacier–Ocean Interaction Model For Tsunami Genesis Due To Iceberg Calving, Wolper, J., Gao, M., Lüthi, M., Heller, V., Vieli, A., Jiang, C., Gaume, J. (Nature Communications Earth & Environment 2021)
+- Codimensional Incremental Potential Contact, Li, M., Kaufman, D., Jiang, C. (SIGGRAPH 2021)
+- Intersection-free Rigid Body Dynamics, Ferguson, Z., Li, M., Schneider, T., Gil-Ureta, F., Langlois, T., Jiang, C., Zorin, D., Kaufman, D., Panozzo, D. (SIGGRAPH 2021)
+- Guaranteed Globally Injective 3D Deformation Processing, Fang, Y.\*, Li, M.\*, Jiang, C., Kaufman, D. (SIGGRAPH 2021)
+- Medial IPC: Accelerated Incremental Potential Contact With Medial Elastics, Lan, L.\*, Yang, Y.\*, Kaufman, D., Yao, J., Li, M., Jiang, C. (SIGGRAPH 2021)
+- A Unified Second-Order Accurate in Time MPM Formulation for Simulating Viscoelastic Liquids with Phase Change, Su, H.\*, Xue, T.\*, Han, C., Jiang, C., Aanjaneya, M. (SIGGRAPH 2021)
+- High-order Differentiable Autoencoder for Nonlinear Model Reduction, Shen, S.\*, Yang, Y.\*, Shao, T., Wang, H., Jiang, C., Lan, L., Zhou, K. (SIGGRAPH 2021)
+- Lagrangian-Eulerian Multi-Density Topology Optimization With The Material Point Method, Li, Y.\*, Li, X.\*, Li, M.\*, Zhu, Y., Zhu, B., Jiang, C., International Journal for Numerical Methods in Engineering (IJNME 2021)
+- Soft Hybrid Aerial Vehicle Via Bistable Mechanism, Li, X.\*, McWilliams, J.\*, Li, M., Sung, C., Jiang, C., IEEE International Conference on Robotics and Automation (ICRA 2021)
+- A Novel Discretization And Numerical Solver For Non-Fourier Diffusion, Xue, T.\*, Su, H.\*, Han, C., Jiang, C., Aanjaneya, M. (SIGGRAPH Asia 2020)
+- The Mechanical Origin Of Snow Avalanche Dynamics And Flow Regime Transitions, Li, X., Sovilla, B., Jiang, C., Gaume, J. (The Cryosphere 2020)
+- AnisoMPM: Animating Anisotropic Damage Mechanics, Wolper, J., Chen, Y., Li, M., Fang, Y., Qu, Z., Lu, J., Cheng, M., Jiang, C. (SIGGRAPH 2020)
+- Incremental Potential Contact: Intersection- and Inversion-Free, Large-Deformation Dynamics, Li, M., Ferguson, Z., Schneider, T., Langlois, T., Zorin, D., Panozzo, D., Jiang, C., Kaufman, D. (SIGGRAPH 2020)
+- IQ-MPM: An Interface Quadrature Material Point Method For Non-Sticky Strongly Two-Way Coupled Nonlinear Solids And Fluids, Fang, Y.\*, Qu, Z.\*, Li, M., Zhang, X., Zhu, Y., Aanjaneya, M., Jiang, C. (SIGGRAPH 2020)
+- Chemomechanical Simulation Of Soap Film Flow On Spherical Bubbles, Huang, W., Iseringhausen, J., Kneiphof, T., Qu, Z., Jiang, C., Hullin, M.B. (SIGGRAPH 2020) 
+- A Massively Parallel And Scalable Multi-GPU Material Point Method, Wang, X.\*, Qiu, Y.\*, Slattery, S.R., Fang, Y., Li, M., Zhu, S.C., Zhu, Y., Tang, M., Manocha, D., Jiang, C. (SIGGRAPH 2020)
+- Hierarchical Optimization Time Integration For CFL-Rate Mpm Stepping, Wang, X., Li, M., Fang, Y., Zhang, X., Gao, M., Tang, M., Kaufman, D.M., Jiang, C., TOG (presented at SIGGRAPH 2020)
+- A Hybrid Material‐point Spheropolygon‐Element Method For Solid And Granular Material Interaction, Jiang, Y., Li, M., Jiang, C., Alonso‐Marroquin, F., International Journal for Numerical Methods in Engineering (IJNME 2020)
+- A Hybrid Lagrangian/Eulerian Collocated Velocity Advection And Projection Method For Fluid Simulation, Gagniere, S., Hyde, D., Marquez‐Razon, A., Jiang, C., Ge, Z., Han, X., Guo, Q., Teran, J., Computer Graphics Forum (SCA 2020)
+- CD-MPM: Continuum Damage Material Point Methods For Dynamic Fracture Animation, Wolper, J., Fang, Y., Li, M., Lu, J., Gao, M., Jiang, C. (SIGGRAPH 2019)
+- Silly Rubber: An Implicit Material Point Method For Simulating Non-Equilibrated Viscoelastic And Elastoplastic Solids, Fang, Y., Li, M., Gao, M., Jiang, C. (SIGGRAPH 2019)
+- Decomposed Optimization Time Integrator For Large-Step Elastodynamics, Li, M., Gao, M., Langlois, T., Jiang, C., Kaufman, D. (SIGGRAPH 2019)
+- Efficient And Conservative Fluids Using Bidirectional Mapping, Qu, Z.\*, Zhang, X.\*, Gao, M., Jiang, C., Chen, B. (SIGGRAPH 2019)
+- A Hybrid Material Point Method For Frictional Contact With Diverse Materials, Han, X., Gast, T.F., Guo, Q., Wang, S., Jiang, C., Teran, J. (ACM CGIT 2019)
+- Simulation And Visualization Of Ductile Fracture With The Material Point Method, Wang, S., Ding, M., Gast, T.F., Zhu, L., Gagniere, S., Jiang, C., Teran, J. (ACM CGIT 2019)
+- Real-Time Fluid Simulation On The Surface Of A Sphere, Yang, B., Corse, W., Lu, J., Wolper, J., Jiang, C. (ACM CGIT 2019)
+- Investigating The Release And Flow Of Snow Avalanches At The Slope-Scale Using A Unified Model Based On The Material Point Method, Gaume, J., van Herwijnen, A., Gast, T., Teran, J., Jiang, C., Cold Reg. Sci. and Tech. (CRST 2019)
+- Autonomous Precision Pouring From Unknown Containers, Kennedy, M., Schmeckpeper, K., Thakur, D., Jiang, C., Kumar, V., Daniilidis, K., Robotics and Automation Letters (RAL 2019)
+- Mirroring Without Overimitation: Learning Functionally Equivalent Manipulation Actions, Liu, H., Zhang, C., Zhu, Y., Jiang, C., Zhu, S.C. (AAAI 2019)
+- GPU Optimization Of Material Point Methods, Gao, M.\*, Wang, X.\*, Wu, K.\*, Pradhana, A., Sifakis, E., Yuksel, C., Jiang, C. (SIGGRAPH Asia 2018)
+- Fast And Scalable Position-Based Layout Synthesis, Weiss, T., Litteneker, A., Duncan, N., Nakada, M., Jiang, C., Yu, L.F., Terzopoulos, D. (TVCG 2018)
+- A Temporally Adaptive Material Point Method With Regional Time Stepping, Fang, Y., Hu, Y., Hu, S.M., Jiang, C., Computer Graphics Forum (CGF 2018)
+- A Moving Least Squares Material Point Method With Displacement Discontinuity And Two-Way Rigid Body Coupling, Hu, Y., Fang, Y., Ge, Z., Qu, Z., Zhu, Y., Pradhana, A., Jiang, C. (SIGGRAPH 2018)
+- Animating Fluid Sediment Mixture In Particle-Laden Flows, Gao, M., Pradhana, A., Han, X., Guo, Q., Kot, G., Sifakis, E., Jiang, C. (SIGGRAPH 2018)
+- Dynamic Anticrack Propagation In Snow, Gaume, J., Gast, T., Teran, J., van Herwijnen, A., Jiang, C. (Nature Communications 2018)
+- Configurable 3D Scene Synthesis And 2D Image Rendering With Per-Pixel Ground Truth Using Stochastic Grammars, Jiang, C.\*, Qi, S.\*, Zhu, Y.\*, Huang, S., Lin, J., Yu, L.F., Terzopoulos, D., Zhu, S.C. (IJCV 2018)
+- Human-Centric Indoor Scene Synthesis Using Stochastic Grammar, Qi, S., Zhu, Y., Huang, S., Jiang, C., Zhu, S.C. (CVPR 2018)
+- Spatially Perturbed Collision Sounds Attenuate Perceived Causality In 3d Launching Events, Wang, D., Kubrlcht, J., Zhu, Y., Lianq, W., Zhu, S.C., Jiang, C., Lu, H. (IEEE VR 2018)
+- An Adaptive Generalized Interpolation Material Point Method For Simulating Elastoplastic Materials, Gao, M., Tampubolon, A.P., Jiang, C., Sifakis, E. (SIGGRAPH Asia 2017)
+- A Polynomial Particle-In-Cell Method, Fu, C., Guo, Q., Gast, T., Jiang, C., Teran, J. (SIGGRAPH Asia 2017) 
+- Position-Based Multi-Agent Dynamics For Real-Time Crowd Simulation, Weiss, T., Litteneker, A., Jiang, C., Terzopoulos, D. (MIG 2017)
+- Anisotropic Elastoplasticity For Cloth, Knit And Hair Frictional Contact, Jiang, C., Gast, T., Teran, J. (SIGGRAPH 2017) 
+- Multi-Species Simulation Of Porous Sand And Water Mixtures, Tampubolon, A.P., Gast, T., Klar, G., Fu, C., Teran, J., Jiang, C., Museth, K. (SIGGRAPH 2017)
+- An Angular Momentum Conserving Affine-Particle-In-Cell Method, Jiang, C., Schroeder, C., Teran, J., Journal of Computational Physics (JCP 2017)
+- Consistent Probabilistic Simulation Underlying Human Judgment In Substance Dynamics, Kubricht, J., Zhu, Y., Jiang, C., Terzopoulos, D., Zhu, S.C., Lu, H. (Cogsci 2017)
+- Visualization Of Vascular Injuries In Extremity Trauma, Chong, K., Jiang, C., Ram, D., Santhanam, A., Terzopoulos, D., Benharash, P., Dutson, E., Teran, J., Eldredge, J.D., Medical & Bological Engineering & Computing (2017)
+- Drucker-Prager Elastoplasticity For Sand Animation, Klar, G., Gast, T., Pradhana, A., Fu, C., Schroeder, C., Jiang, C., Teran, J. (SIGGRAPH 2016)
+- Implicit-Shifted Symmetric Qr Singular Value Decomposition Of 3x3 Matrices, Gast, T., Fu, C., Jiang, C., Teran, J. Technical Report (2016)
+- A Virtual Reality Platform For Dynamic Human-Scene Interaction, Lin, J., Guo, X., Shao, J., Jiang, C., Zhu, Y., Zhu, S.C. (SIGGRAPH ASIA Workshop 2016)
+- Inferring Forces And Learning Human Utilities From Videos, Zhu, Y.\*, Jiang, C.\*, Zhao, Y., Terzopoulos, D., Zhu, S.C. (CVPR 2016)
+- Probabilistic Simulation Predicts Human Performance On Viscous Fluid-Pouring Problem, Kubricht, J.\*, Jiang, C.\*, Zhu, Y.\*, Zhu, S.C., Terzopoulos, D., Lu, H. (Cogsci 2016)
+- Fast Automated Liver Delineation From Computational Tomography Angiography, Ding, X., Geng, X., Jiang, C., Tian, F., Yan, X., Qi, H., Zhang, L., Zheng, Y., Procedia Computer Science (2016)
+- Automated Pericardial Fat Quantification From Coronary Magnetic Resonance Angiography, Ding, X., Pang, J., Ren, Z., Diaz-Zamudio, M., Jiang, C., Fan, Z., Berman, D.S., Li, D., Terzopoulos, D., Slomka, P.J., Dey, D. (JMI 2016)
+- The Affine Particle-In-Cell Method, Jiang, C., Schroeder, C., Selle, A., Teran, J., Stomakhin, A. (SIGGRAPH 2015)
+- A Material Point Method For Viscoelastic Fluids, Foams And Sponges, Ram, D., Gast, T., Jiang, C., Schroeder, C., Stomakhin, A., Teran, J., Kavehpour, P. (SCA 2015)
+- Optimization Integrator For Large Time Steps, Gast, T.F., Schroeder, C., Stomakhin, A., Jiang, C., Teran, J.M. (TVCG 2015) 
+- Augmented MPM For Phase-Change And Varied Materials, Stomakhin, A., Schroeder, C., Jiang, C., Chai, L., Teran, J., Selle, A. (SIGGRAPH 2014) 
+- An Adaptive Virtual Node Algorithm With Robust Mesh Cutting, Wang, Y., Jiang, C., Schroeder, C.A., Teran, J. (SCA 2014) 
+- A Level Set Method For Ductile Fracture, Hegemann, J., Jiang, C., Schroeder, C., Teran, J.M. (SCA 2013)
+- Modeling And Animating Myriapoda: A Real-Time Kinematic/Dynamic Approach, Fang, J., Jiang, C., Terzopoulos, D. (SCA 2013)
+- Relativistic Correction Of (v/c)^2 To The Collective Thomson Scattering For High-Temperature High-Density Plasma, Jiang, C., Zheng, J., Zhao, B., Chinese Physics B (2011)
